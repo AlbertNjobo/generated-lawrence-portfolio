@@ -2,7 +2,7 @@
 
 A minimalist, single-page resume website inspired by Notion's block-based structure and clean academic aesthetics.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/AlbertNjobo/generated-lawrence-portfolio)
 
 ## About The Project
 
@@ -89,7 +89,7 @@ This project is optimized for deployment on the Cloudflare network.
 
 Click the button below to deploy this project directly to your Cloudflare account.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/AlbertNjobo/generated-lawrence-portfolio)
 
 ## License
 
